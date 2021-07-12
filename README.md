@@ -20,7 +20,7 @@
 
 **▪︎ You Have the All Rights To Re-Edit This Ropo**
 
-**▪︎ Re-Codded By [TOXIC DEVIL](https://github.com/TOXIC-DEVIL)**
+**▪︎ Modifies By [TOXIC DEVIL](https://github.com/TOXIC-DEVIL)**
 
 **▪︎ Added More Commands**
 
