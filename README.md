@@ -88,12 +88,14 @@ $ node qr.js
 
 ## Important
 
+-------------
+
 **Dear Users,**
 **You Can Contribute To Us!! You can Contribute - Bug Fixes, Error Fixes, Commands, etc..**
 **Also Please Don't Share Invaild Codes/plugins to us!**
 
-                                 **~TOXIC-DEVIL**
--------------
+      **~TOXIC-DEVIL**
+
 
 
 ### Features
