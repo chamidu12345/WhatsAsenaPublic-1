@@ -96,7 +96,7 @@ $ node qr.js
 
       **~TOXIC-DEVIL**
 
-
+--------------------
 
 ### Features
 
