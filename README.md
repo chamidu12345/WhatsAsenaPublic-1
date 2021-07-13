@@ -16,7 +16,7 @@
 
 ### What Is WhatsAsenaPublic
 
-**▪︎ The **[Modified Version](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic)** Of **[WhatsAsenaDuplicated](https://github.com/Phaticusthiccy/WhatsAsenaDuplicated)**
+**▪︎ The [Modified Version](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic) Of [WhatsAsenaDuplicated](https://github.com/Phaticusthiccy/WhatsAsenaDuplicated)**
 
 **▪︎ You Have the All Rights To Re-Edit This Ropo**
 
