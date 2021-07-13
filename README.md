@@ -92,7 +92,7 @@ $ node qr.js
 
 **Dear Users,**
 **You Can Contribute To Us!! You can Contribute - Bug Fixes, Error Fixes, Commands, etc..**
-**Also Please Don't Share Invaild Codes/plugins to us!**
+**Also Please Don't Share Invaild Codes/plugins to us, and we will give credits ( ON README ) to some selected users who contribute us!**
 
       ~TOXIC-DEVIL
 
