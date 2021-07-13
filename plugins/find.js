@@ -1,4 +1,4 @@
-/* const Asena = require('../events');
+const Asena = require('../events');
 const {MessageType,Mimetype} = require('@adiwajshing/baileys');
 
 const fs = require('fs');
@@ -42,4 +42,4 @@ Asena.addCommand({pattern: 'find', fromMe: td, desc: Lang.FINDS_DESC}, (async (m
         });
     });
 
-})); */
+})); 
