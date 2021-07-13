@@ -86,6 +86,15 @@ $ node qr.js
 | Re-Developer, Base, Bug Fixes, Modules |
 
 
+## Important
+
+**Dear Users,**
+**You Can Contribute To Us!! You can Contribute - Bug Fixes, Error Fixes, Commands, etc..**
+**Also Please Don't Share Invaild Codes/plugins to us!**
+
+                                 **~TOXIC-DEVIL**
+-------------
+
 
 ### Features
 
