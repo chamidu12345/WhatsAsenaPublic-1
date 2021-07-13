@@ -91,8 +91,9 @@ $ node qr.js
 -------------
 
 **Dear Users,**
-**You Can Contribute To Us!! You can Contribute - Bug Fixes, Error Fixes, Commands, etc..**
+**You Can **[Contribute](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic/wiki/How-to-Contribute%3F)** To Us!! You can **[Contribute](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic/wiki/How-to-Contribute%3F)** - Bug Fixes, Error Fixes, Commands, etc..**
 **Also Please Don't Share Invaild Codes/plugins to us, and we will give credits ( ON README ) to some selected users who contribute us!**
+**[Click here to see How to contribute](https://github.com/TOXIC-DEVIL/WhatsAsenaPublic/wiki/How-to-Contribute%3F)**
 
       ~TOXIC-DEVIL
 
