@@ -186,6 +186,8 @@
             "FINDS_DESC": "Find the song using Shazam",
             "NEED_FAUDIO": "*You Must Reply to an Audio!*",
             "NOT_FOUNDFS": "*I couldn't find anything :(*",
+            "TITLE_F": "Title",
+            "ARTIST_F": "Artist",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
             "DOWNLOADING_VIDEO": "```Downloading your video...```",
