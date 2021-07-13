@@ -1,0 +1,16 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Hey User!! Do not enter invalid issues. You Can Issue - Doubts, Project Bugs, Any Command Request, etc..'
+        pr-message: 'Hey User!! Do not enter invalid pull requests. You Can Pull Request - Bug Fix, Any Commands, Any Error Fix, etc..'
