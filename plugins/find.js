@@ -7,7 +7,7 @@ const FormData = require('form-data');
 const ffmpeg = require('fluent-ffmpeg');
 
 const Language = require('../language');
-const Lang = Language.getString('');
+const Lang = Language.getString('scrapers');
 
 let td = conf.WORKTYPE == 'public' ? false : true
 
